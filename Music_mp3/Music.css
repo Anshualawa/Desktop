@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+   
+    background-image: linear-gradient(rgba(16, 12, 12, 0.694),rgba(35, 121, 127, 0.416)),url("screen2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(0, 255, 255);
+}
+
+.terminalText textarea{
+    color: rgb(0, 255, 0);
+    margin-top: 0px;
+    margin-left: 30px;
+    font-size: 20px;
+    text-align: left;
+    
+}
+h1{
+    text-align: center;
+}
+
+img {
+    margin-top:20px;
+    margin-left: 400px;
+    height: 50px;
+    width: 50px;
+}
+
+.alawa img{
+    margin-top: 50px;
+    height: 250px;
+    width: 200px;
+    
+}
+
+audio{
+    position: absolute;
+    margin-top: 37%;
+    margin-left: -43%;
+}
