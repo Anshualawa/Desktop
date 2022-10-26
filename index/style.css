@@ -1,0 +1,27 @@
+body{
+    background-image: url("screen.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: green;
+}
+h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+img {
+    margin-top: 25px;
+    margin-left: 15px;
+    height: 50px;
+    width: 50px;
+}
+
+.MusicPlayer{
+    
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: rgba(0, 255, 255, 0.662);
+    width: fit-content;
+}
+
+
