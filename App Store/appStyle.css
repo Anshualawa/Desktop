@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("screen9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: green;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.Appstore{
+    margin-top: 0%;
+    margin-left: 25%;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
